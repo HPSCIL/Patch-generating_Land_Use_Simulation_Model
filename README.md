@@ -16,11 +16,10 @@ Land use/land cover change(LULC) simulaiton, policy making, knowlege discovery f
   
 # Related open source library
   PLUS was developed purely in the C++ language. The parallel technology of PLUS software is from High-performance Spatial Computational Intelligence Lab @ China University of Geosciences (Wuhan) (https://github.com/HPSCIL). The Random forest technique in our model is from a powerful open source library called Alglib 3.9.2 (http://www.alglib.net/). The linear regression algorithm is from (https://github.com/fengbingchun/NN_Test). The UI of the software is built using a famous open source library Qt 5 (https://www.qt.io/download/). This UI provides a real-time display of dynamic changes of land use in simulation process. Moreover, the using of open source library GDAL 2.0.2 (http://www.gdal.org/) allows our model to directly read and write raster data (.tif, .img, .txt files) that includes geographical coordinate information. 
+  
 # Consultation 
 If you have technical questions regarding PLUS software, please contact Dr. Xun Liang (liangxun@cug.edu.cn)
-# Authors & developers
-Xun Liang, Qingfeng Guan*, Shishi Liu, Yao Yao
-* Corresponding author. E-mail address: guanqf@cug.edu.cn (Qingfeng Guan).
+
 # Contact info
 High-performance Spatial Computational Intelligence Lab(HPSCIL) (https://github.com/HPSCIL)
 School of Geography and Information Engineering, China University of Geosciences, Wuhan, Hubei 430078, China.
