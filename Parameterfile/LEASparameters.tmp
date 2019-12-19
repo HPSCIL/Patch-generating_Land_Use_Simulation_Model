@@ -1,0 +1,16 @@
+<Input LULC>
+C:/PerfLogs/sample_2_uc.tif
+<Input Featrue folder>
+C:/PerfLogs/Driving20191213/
+<Output probability>
+C:/PerfLogs/wocaole.tif
+<Input sampling rate>
+0.05
+<mTry>
+18
+<Input the number of trees>
+20
+<Is balance?>
+0
+<Input thread count>
+1
