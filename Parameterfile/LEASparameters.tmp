@@ -1,0 +1,16 @@
+<Input LULC>
+C:/Users/liang/data1224/data/ex_landuse_1to2.tif
+<Input Featrue folder>
+C:/Users/liang/data1224/data/drive/
+<Output probability>
+C:/Users/liang/Desktop/PLUS1223/Parameterfile/test.tif
+<Input sampling rate>
+0.01
+<mTry>
+4
+<Input the number of trees>
+20
+<Is balance?>
+0
+<Input thread count>
+1
