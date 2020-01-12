@@ -1,4 +1,0 @@
-C:/Users/liang/data1224/data/drive/\wh_df_dem.tif -45 266 -9999
-C:/Users/liang/data1224/data/drive/\wh_df_pre.tif 1177 1352 -1.7e+308
-C:/Users/liang/data1224/data/drive/\wh_df_slope.tif 0 40.1235 -9999
-C:/Users/liang/data1224/data/drive/\wh_df_tem.tif 16.6333 17.3042 -1.7e+308
