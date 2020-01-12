@@ -6,9 +6,9 @@ Run PLUS software by double-clicking the exe file 'PLUS V1.0_boxed.exe'. PLUS so
 # User manual
 Please find the attached PDF file 'User Manual PLUS -20191206-Eng.pdf' in the Repository.
 # Test data
-Please find the compressed file 'PLUS_test_data.zip' in the Repository. From the study proposed by Liu, Su, Cao, Wang, & Guan (2019).
-To cite this paper:
-Liu, S., Su, H., Cao, G., Wang, S., & Guan, Q. (2019). Learning from data: A post classification method for annual land cover analysis in urban areas. ISPRS Journal of Photogrammetry and Remote Sensing, 154, 202-215. doi: 10.1016/j.isprsjprs.2019.06.006
+Please find the compressed file 'PLUS_test_data.zip' in the Repository. Land use study is From the study proposed by 
+Liu, Su, Cao, Wang, & Guan (2019).
+To cite this paper:  Liu, S., Su, H., Cao, G., Wang, S., & Guan, Q. (2019). Learning from data: A post classification method for annual land cover analysis in urban areas. ISPRS Journal of Photogrammetry and Remote Sensing, 154, 202-215. doi: 10.1016/j.isprsjprs.2019.06.006
 
 # Innovation and advantages 
   CA model is developed to improve the representation of complex land-use and land-cover (LULC) systems. Previous studies focus on the improvement of technical modeling procedures, little researches have pay attention to promote understanding of the nonlinear relationships underlying LULC. A lack of model ability to reflect patch-level landscape evolution also limit the application potential of CAs for policy development. This study presents a patch-level land use simulation (PLUS) model that integrates a rule mining framework based on Land Expansion Analysis Strategy (LEAS) and a CA model based on multi-type Random Seeds (CARS), which was used to understand the drivers of land expansion and project landscape dynamics. The PLUS model can obtain higher simulation accuracy and more similar landscape pattern than other models. The LEAS can help researchers find some underlying transition rules. The proposed method combines simulation, knowledge discovery and policy-making, which can provide vital information for both researchers and policy-makers.
