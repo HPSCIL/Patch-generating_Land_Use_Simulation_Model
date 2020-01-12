@@ -6,7 +6,7 @@ Run PLUS software by double-clicking the exe file 'PLUS V1.0_boxed.exe'. PLUS so
 # User manual
 Please find the attached PDF file 'User Manual PLUS -20191206-Eng.pdf' in the Repository.
 # Test data
-Please find the compressed file 'PLUS_test_data.zip' in the Repository. Land use study is From the study proposed by 
+Please find the compressed file 'PLUS_test_data.zip' in the Repository. Land use data of PLUS model is From the study proposed by 
 Liu, Su, Cao, Wang, & Guan (2019).To cite this paper:
 </p>
 Liu, S., Su, H., Cao, G., Wang, S., & Guan, Q. (2019). Learning from data: A post classification method for annual land cover analysis in urban areas. ISPRS Journal of Photogrammetry and Remote Sensing, 154, 202-215. doi: 10.1016/j.isprsjprs.2019.06.006  
