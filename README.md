@@ -28,3 +28,6 @@ If you have technical questions regarding PLUS software, please contact Dr. Xun 
 High-performance Spatial Computational Intelligence Lab(HPSCIL) (https://github.com/HPSCIL)
 School of Geography and Information Engineering, China University of Geosciences, Wuhan, Hubei 430078, China.
 For any possible research collaboration, please contact Prof. Qingfeng Guan (guanqf@cug.edu.cn)
+
+
+https://github.com/HPSCIL/Patch-level_Land_Use_Simulation_Model/raw/pic1.png
