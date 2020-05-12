@@ -31,3 +31,4 @@ For any possible research collaboration, please contact Prof. Qingfeng Guan (gua
 
 # Interfaces
 ![add image](https://github.com/HPSCIL/Patch-level_Land_Use_Simulation_Model/raw/master/pic1.png)
+![add image](https://github.com/HPSCIL/Patch-level_Land_Use_Simulation_Model/raw/master/pic2.png)
