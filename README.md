@@ -30,4 +30,4 @@ School of Geography and Information Engineering, China University of Geosciences
 For any possible research collaboration, please contact Prof. Qingfeng Guan (guanqf@cug.edu.cn)
 
 
-https://github.com/HPSCIL/Patch-level_Land_Use_Simulation_Model/pic1.png
+https://github.com/HPSCIL/Patch-level_Land_Use_Simulation_Model/raw/master/pic1.png
