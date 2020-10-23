@@ -1,6 +1,10 @@
 # Patch-level_Land_Use_Simulation_Model (PLUS) software
 The PLUS model is a Cellular Automata(CA) for land use/land cover(LULC) change simulation. The PLUS model integrates a rule mining framework based on Land Expansion Analysis Strategy (LEAS) and a CA model based on multi-type Random Seeds (CARS), which was used to understand the drivers of land expansion and project patch-level landscape dynamics.
 
+# Paper of the PLUS model
+Xun Liang, Qingfeng Guan*, Keith C. Clarke, Shishi Liu, Bingyu Wang, Yao Yao. (2020). Understanding the drivers of land expansion for sustainable land use using a patch-level simulation model: A case study in Wuhan, China, Computers, Environment and Urban Systems, under review. https://arxiv.org/abs/2010.11541
+
+
 # Interfaces
 ![add image](https://github.com/HPSCIL/Patch-level_Land_Use_Simulation_Model/raw/master/pic1.png)
 ![add image](https://github.com/HPSCIL/Patch-level_Land_Use_Simulation_Model/raw/master/pic2.png)
