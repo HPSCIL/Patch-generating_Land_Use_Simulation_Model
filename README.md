@@ -4,6 +4,9 @@ The PLUS model is a Cellular Automata(CA) for land use/land cover(LULC) change s
 # To cite the PLUS model
 Xun Liang, Qingfeng Guan*, Keith C. Clarke, Shishi Liu, Bingyu Wang, Yao Yao. (2020). Understanding the drivers of land expansion for sustainable land use using a patch-level simulation model: A case study in Wuhan, China, Computers, Environment and Urban Systems, under review. https://arxiv.org/abs/2010.11541 (Please download the paper here)
 
+# Baidu Cloud Download
+link：https://pan.baidu.com/s/1xZWSZB-Z8LIKaRSCjihcbw   
+code：g2xh 
 
 # Interfaces
 ![add image](https://github.com/HPSCIL/Patch-level_Land_Use_Simulation_Model/raw/master/pic1.png)
