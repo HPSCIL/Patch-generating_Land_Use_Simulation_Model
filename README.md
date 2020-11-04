@@ -1,4 +1,4 @@
-# Patch-generating_Land_Use_Simulation_Model (PLUS) software
+# Patch-generating Land Use Simulation(PLUS) Model software
 The PLUS model is a Cellular Automata(CA) for land use/land cover(LULC) change simulation. The PLUS model integrates a rule mining framework based on Land Expansion Analysis Strategy (LEAS) and a CA model based on multi-type Random Seeds (CARS), which was used to understand the drivers of land expansion and project the dynamics of land use patches and landscape pattern.
 
 # To cite the PLUS model
