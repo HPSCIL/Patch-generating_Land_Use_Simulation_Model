@@ -1,16 +1,16 @@
-# Patch-level_Land_Use_Simulation_Model (PLUS) software
-The PLUS model is a Cellular Automata(CA) for land use/land cover(LULC) change simulation. The PLUS model integrates a rule mining framework based on Land Expansion Analysis Strategy (LEAS) and a CA model based on multi-type Random Seeds (CARS), which was used to understand the drivers of land expansion and project patch-level landscape dynamics.
+# Patch-generating_Land_Use_Simulation_Model (PLUS) software
+The PLUS model is a Cellular Automata(CA) for land use/land cover(LULC) change simulation. The PLUS model integrates a rule mining framework based on Land Expansion Analysis Strategy (LEAS) and a CA model based on multi-type Random Seeds (CARS), which was used to understand the drivers of land expansion and project the dynamics of land use patches and landscape pattern.
 
 # To cite the PLUS model
-Xun Liang, Qingfeng Guan*, Keith C. Clarke, Shishi Liu, Bingyu Wang, Yao Yao. (2020). Understanding the drivers of land expansion for sustainable land use using a patch-level simulation model: A case study in Wuhan, China, Computers, Environment and Urban Systems, under review. https://arxiv.org/abs/2010.11541v2 (Please download the paper here)
+Xun Liang, Qingfeng Guan*, Keith C. Clarke, Shishi Liu, Bingyu Wang, Yao Yao. (2020). Understanding the drivers of land expansion for sustainable land use using a patch-generating simulation model: A case study in Wuhan, China, Computers, Environment and Urban Systems, under review. https://arxiv.org/abs/2010.11541v2 (Please download the paper here)
 
 # Baidu Cloud Download
 link：https://pan.baidu.com/s/1xZWSZB-Z8LIKaRSCjihcbw   
 code：g2xh 
 
 # Interfaces
-![add image](https://github.com/HPSCIL/Patch-level_Land_Use_Simulation_Model/raw/master/pic1.png)
-![add image](https://github.com/HPSCIL/Patch-level_Land_Use_Simulation_Model/raw/master/pic2.png)
+![add image](https://github.com/HPSCIL/Patch-generating_Land_Use_Simulation_Model/raw/master/pic1.png)
+![add image](https://github.com/HPSCIL/Patch-generating_Land_Use_Simulation_Model/raw/master/pic2.png)
 
 # Running environment
 Run PLUS software by double-clicking the exe file 'PLUS V1.0_boxed.exe'. PLUS software can run independently on Windows Vista/7/8/X 64-bit environment, without any dependencies and setup process.
@@ -24,7 +24,7 @@ Liu, S., Su, H., Cao, G., Wang, S., & Guan, Q. (2019). Learning from data: A pos
 <p>
 
 # Innovation and advantages 
-  CA model is developed to improve the representation of complex land-use and land-cover (LULC) systems. Previous studies focus on the improvement of technical modeling procedures, little researches have pay attention to promote understanding of the nonlinear relationships underlying LULC. A lack of model ability to reflect patch-level landscape evolution also limit the application potential of CAs for policy development. This study presents a patch-level land use simulation (PLUS) model that integrates a rule mining framework based on Land Expansion Analysis Strategy (LEAS) and a CA model based on multi-type Random Seeds (CARS), which was used to understand the drivers of land expansion and project landscape dynamics. The PLUS model can obtain higher simulation accuracy and more similar landscape pattern than other models. The LEAS can help researchers find some underlying transition rules. The proposed method combines simulation, knowledge discovery and policy-making, which can provide vital information for both researchers and policy-makers.
+  CA model is developed to improve the representation of complex land-use and land-cover (LULC) systems. Previous studies focus on the improvement of technical modeling procedures, little researches have pay attention to promote understanding of the nonlinear relationships underlying LULC. A lack of model ability to reflect the evolution of landscape pattern and land use patches also limit the application potential of CAs for policy development. This study presents a patch-generating land use simulation (PLUS) model that integrates a rule mining framework based on Land Expansion Analysis Strategy (LEAS) and a CA model based on multi-type Random Seeds (CARS), which was used to understand the drivers of land expansion and project landscape dynamics. The PLUS model can obtain higher simulation accuracy and more similar landscape pattern than other models. The LEAS can help researchers find some underlying transition rules. The proposed method combines simulation, knowledge discovery and policy-making, which can provide vital information for both researchers and policy-makers.
  
  # Scope of application
 Land use/land cover change(LULC) simulaiton, policy making, knowlege discovery for LULC, urban planning, eco-security early-warning and etc.
