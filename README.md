@@ -15,7 +15,9 @@ code：g2xh
 # Running environment
 Run PLUS software by double-clicking the exe file 'PLUS V1.0_boxed.exe'. PLUS software can run independently on Windows Vista/7/8/X 64-bit environment, without any dependencies and setup process.
 # User manual
-Please find the attached PDF file 'User Manual PLUS -20191206-Eng.pdf' in the Repository.
+Please find the attached PDF file 'User Manual PLUS -20191206-Eng.pdf' in the Repository.  
+中文说明：plus模型原理和软件介绍-v2.pdf
+
 # Test data
 Please find the compressed file 'PLUS_test_data.zip' in the Repository. Land use data of PLUS model is From the study proposed by 
 Liu, Su, Cao, Wang, & Guan (2019).To cite this paper:
