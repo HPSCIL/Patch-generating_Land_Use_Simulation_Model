@@ -2,7 +2,7 @@
 The PLUS model is a raster-based Cellular Automata(CA) for land use/land cover(LULC) change simulation. The PLUS model integrates a rule mining framework based on Land Expansion Analysis Strategy (LEAS) and a CA model based on multi-type Random Seeds (CARS), which was used to understand the drivers of land expansion and project the dynamics of land use patches and landscape pattern.
 
 # To cite the PLUS model
-Xun Liang, Qingfeng Guan*, Keith C. Clarke, Shishi Liu, Bingyu Wang, Yao Yao. (2021). Understanding the drivers of land expansion for sustainable land use using a patch-generating land use simulation (PLUS) model: A case study in Wuhan, China, Computers, Environment and Urban Systems, 85:101569  
+Xun Liang, Qingfeng Guan*, Keith C. Clarke, Shishi Liu, Bingyu Wang, Yao Yao. (2021). Understanding the drivers of land expansion for sustainable land use using a patch-generating land use simulation (PLUS) model: A case study in Wuhan, China, Computers, Environment and Urban Systems, 85:101569. DOI: 10.1016/j.compenvurbsys.2020.101569
 
 50 days' free download link to the article: https://authors.elsevier.com/c/1c8sGjFQgoR~j
 
