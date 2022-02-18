@@ -1,0 +1,4 @@
+RMSE_original, 0.223607
+Factors, dem_jx.tif,gdp2015.tif,temp21.tif,
+RMSE_noise, 0.406202,0.463681,0.244949,
+Contribution:, 0.41124,0.540694,0.0480667,

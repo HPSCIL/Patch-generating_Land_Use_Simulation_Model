@@ -1,0 +1,23 @@
+<Input LULC>
+C:/Users/liang/Downloads/testdata/testdata/expansion_landuse_1to2.tif
+<Input Featrue folder>
+C:/Users/liang/Downloads/testdata/testdata/drivingfactor/
+<Output probability>
+C:/Users/liang/Downloads/testdata/testdata/test2.tif
+<Is net exit?>
+0
+<Input sampling rate>
+0.0001
+<mTry>
+3
+<Input the number of trees>
+2
+<Is balance?>
+0
+<Input thread count>
+1
+<High precision>
+0
+<Update Number>
+0
+<Update Variable>
