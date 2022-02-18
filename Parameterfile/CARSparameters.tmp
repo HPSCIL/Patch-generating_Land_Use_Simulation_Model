@@ -1,0 +1,44 @@
+<Input classes>
+6
+<Input LULC>
+C:/Users/liang/Documents/WeChat Files/weixin1245764691/FileStorage/File/2021-12/PLUS data/Landuse/wh2018_uc.tif
+<Input Probability Folder>
+C:/Users/liang/Documents/WeChat Files/weixin1245764691/FileStorage/File/2021-12/PLUS data/shiyixingtuji2010_2018/pro1018_band_1.tif
+C:/Users/liang/Documents/WeChat Files/weixin1245764691/FileStorage/File/2021-12/PLUS data/shiyixingtuji2010_2018/pro1018_band_2.tif
+C:/Users/liang/Documents/WeChat Files/weixin1245764691/FileStorage/File/2021-12/PLUS data/shiyixingtuji2010_2018/pro1018_band_3.tif
+C:/Users/liang/Documents/WeChat Files/weixin1245764691/FileStorage/File/2021-12/PLUS data/shiyixingtuji2010_2018/pro1018_band_4.tif
+C:/Users/liang/Documents/WeChat Files/weixin1245764691/FileStorage/File/2021-12/PLUS data/shiyixingtuji2010_2018/pro1018_band_5.tif
+C:/Users/liang/Documents/WeChat Files/weixin1245764691/FileStorage/File/2021-12/PLUS data/shiyixingtuji2010_2018/pro1018_band_6.tif
+<Output simulation>
+C:/Users/liang/Documents/WeChat Files/weixin1245764691/FileStorage/File/2021-12/PLUS data/test.tif
+<Input Policy>
+
+<Input Neighborhood>
+3
+<How many years>
+1
+<Input thread count>
+5
+<Patch generation>
+0.01
+<Expansion coefficient>
+0.1
+<Neighborhood Weight>
+0.176,0.062,0.020,0.238,0.491,0.012
+<Transition matrix>
+1,1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1,1
+<Years and corresponding demands>
+1,4827465,852914,87781,1981164,1715061,65606
+<Percentage of seeds>
+1
+<Development type exist>
+0
+<Development type>
+0
+<Development weight>
+0.5
