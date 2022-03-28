@@ -45,4 +45,4 @@ High-performance Spatial Computational Intelligence Lab(HPSCIL) (https://github.
 School of Geography and Information Engineering, China University of Geosciences, Wuhan, Hubei 430078, China.
 For any possible research collaboration, please contact Prof. Qingfeng Guan (guanqf@cug.edu.cn)
 
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=L-rOaDstgXc-CU-TDrzcod-3VwBjdphZzQsvVWouPZE&cl=ffffff&w=a"></script>
