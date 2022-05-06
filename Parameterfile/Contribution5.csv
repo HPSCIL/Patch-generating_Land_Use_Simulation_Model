@@ -1,4 +1,0 @@
-RMSE_original, 0.0529999
-Factors, DEM.tif,dis-gthc.tif,dis-railway.tif,dis-wator.tif,dis-zf.tif,dis_cityway11.tif,dis_cityway2.tif,dis_cityway3.tif,dis_cityway4.tif,dis_mainway.tif,gdp2015.tif,rainfall20002020.tif,rk2015.tif,slope1.tif,solid.tif,temprature2000-20201.tif,wind2000-20201.tif,
-RMSE_noise, 0.0529999,0.0529999,0.0529999,0.0529999,0.0529999,0.0529999,0.0529999,0.0529999,0.0529999,0.0529999,0.0529999,0.0529999,0.0529999,0.0529999,0.0529999,0.0529999,0.0529999,
-Contribution:, nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,
