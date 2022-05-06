@@ -1,0 +1,48 @@
+
+Type 0
+make df-trees success = 1
+RMSE =  0.287863
+OOB RMSE =  0.653964
+Run time: 0.016
+
+Type 1
+make df-trees success = 1
+RMSE =  0.251401
+OOB RMSE =  0.626543
+Run time: 0.016
+
+Type 2
+make df-trees success = 1
+RMSE =  0
+OOB RMSE =  0.471073
+Run time: 0
+
+Type 3
+make df-trees success = 1
+RMSE =  0.213649
+OOB RMSE =  0.575116
+Run time: 0.016
+
+Type 4
+make df-trees success = 1
+RMSE =  0.0794998
+OOB RMSE =  0.474786
+Run time: 0
+
+Type 5
+make df-trees success = 1
+RMSE =  0.0529999
+OOB RMSE =  0.471073
+Run time: 0
+
+Type 6
+make df-trees success = 1
+RMSE =  0
+OOB RMSE =  0.462042
+Run time: 0
+
+Type 7
+make df-trees success = 1
+RMSE =  0.206971
+OOB RMSE =  0.578161
+Run time: 0.015
