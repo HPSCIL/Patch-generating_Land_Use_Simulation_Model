@@ -1,0 +1,4 @@
+RMSE_original, 0.00587726
+Factors, aSlopwgs84r.tif,ChinaDemSigned1r.tif,cngdp20101r.tif,dist2highwayr.tif,dist2hsrstationsr.tif,dist2importanttownr.tif,dist2iprimaryr.tif,dist2isecondaryr.tif,dist2prefecture_cityr.tif,dist2provincial_capitalr.tif,dist2railwayr.tif,dist2trunkr.tif,HWSD_China_Geo1r.tif,p0p2010_wgs84r.tif,wc2.0_bio_30s_01r.tif,wc2.0_bio_30s_12r.tif,
+RMSE_noise, 0.0117787,0.0104932,0.0122186,0.00785078,0.00791857,0.00826131,0.00737013,0.0101715,0.0538939,0.0483319,0.00785929,0.00729037,0.0801687,0.00607019,0.00662793,0.00630769,
+Contribution:, 0.0297185,0.0232452,0.0319338,0.00993834,0.0102797,0.0120057,0.00751784,0.0216251,0.241804,0.213795,0.00998117,0.00711621,0.37412,0.000971573,0.00378023,0.00216759,

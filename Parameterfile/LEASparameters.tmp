@@ -1,0 +1,23 @@
+<Input LULC>
+C:/Users/liang/Downloads/Re_ Re_ Questions Regarding FLUS model/LE_landuse_1to2_test2.tif
+<Input Featrue folder>
+C:/Users/liang/Downloads/Re_ Re_ Questions Regarding FLUS model/test/
+<Output probability>
+C:/Users/liang/Downloads/Re_ Re_ Questions Regarding FLUS model/test.tif
+<Is net exit?>
+0
+<Input sampling rate>
+0.01
+<mTry>
+1
+<Input the number of trees>
+20
+<Is balance?>
+0
+<Input thread count>
+1
+<High precision>
+0
+<Update Number>
+0
+<Update Variable>

@@ -1,0 +1,10 @@
+A=,983337
+B=,269174
+C=,32223
+D=,521157
+[Figure of Merit]=B/(A+B+C+D)
+FoM=,0.149053
+[Producer's Accuracy]=B/(A+B+C)
+Producer's Accuracy=, 0.209517
+[User's Accuracy]=B/(B+C+D)
+User's Accuracy=,0.327242
