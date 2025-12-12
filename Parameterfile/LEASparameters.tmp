@@ -1,0 +1,24 @@
+<Input LULC>
+C:/PLUS_model/PLUSmodel/PLUS_WMA/PLUS_WH/NNtest/data_500m/landuse/GLC_FCS30D_CHN_2000_500m_uc.tif
+<Input Featrue folder>
+C:/PLUS_model/PLUSmodel/PLUS_WMA/PLUS_WH/NNtest/data_500m/factors/
+<Output probability>
+C:/PLUS_model/PLUSmodel/PLUS_WMA/PLUS_WH/NNtest/data_500m/PoO_future2100test/AAA.tif
+<Is net exit?>
+0
+<Input sampling rate>
+0.01
+<mTry>
+17
+<Input the number of trees>
+20
+<Is balance?>
+0
+<Input thread count>
+6
+<High precision>
+0
+<Update Number>
+1
+<Update Variable>
+0,C:/PLUS_model/PLUSmodel/PLUS_WMA/PLUS_WH/NNtest/data_500m/Prec_future/Prec_future_2100_370.tif
