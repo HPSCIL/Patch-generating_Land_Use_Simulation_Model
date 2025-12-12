@@ -1,4 +1,0 @@
-RMSE_original, 0.0163282
-Factors, a_chn_Pre2.tif,chn_dem.tif,chn_dist_highway.tif,chn_dist_primary.tif,chn_dist_railway.tif,chn_dist_secondary.tif,chn_dist_tertiary.tif,chn_dist_trunk.tif,chn_fao90.tif,chn_gdp.tif,chn_orgcarbon.tif,chn_pop2.tif,chn_sand.tif,chn_srad.tif,chn_tavg.tif,chn_wind.tif,lianghengsanzong2.tif,
-RMSE_noise, 0.0453643,0.239203,0.0372052,0.0263962,0.0265487,0.0290067,0.0292521,0.0272926,0.0417929,0.0309541,0.077017,0.0323548,0.040679,0.0480806,0.0383261,0.0379938,0.0351805,
-Contribution:, 0.0513852,0.394421,0.036946,0.0178173,0.0180871,0.0224371,0.0228713,0.0194037,0.0450649,0.0258834,0.107401,0.0283622,0.0430936,0.0561921,0.0389297,0.0383416,0.0333628,
